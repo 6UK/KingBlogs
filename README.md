@@ -60,7 +60,7 @@ $ ./start.sh
 
 ## Support
 
-In case of any bugs kindly contact me @karugunjoroge@gmail.com.
+In case of any bugs kindly contact me @karugunjoroge@gmail.com
 
 ## License
 
