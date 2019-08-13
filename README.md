@@ -54,7 +54,7 @@ Bootstrap.
 
 ## Running app
 
-In the terminal:
+In the terminal
 
 $ ./start.sh
 
