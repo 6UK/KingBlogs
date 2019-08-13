@@ -1,4 +1,4 @@
-# The KING NJOSH BlOG!! #####
+# THE KING NJOSH BlOG !! #####
 
 
 ##  Description
@@ -60,7 +60,7 @@ $ ./start.sh
 
 ## Support
 
-In case of any challnges contact me at karugunjoroge@gmail.com
+In case of any bugs kindly contact me @karugunjoroge@gmail.com
 
 ## License
 
