@@ -37,7 +37,7 @@ Install dependancies that will create an environment for the app to run pip3 ins
 
 ## Bugs
 
-At the time of deployment there were no known bugs.
+At the time of deployment there were no known bugs
 
 ## Technologies used
 
