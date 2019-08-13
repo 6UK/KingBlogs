@@ -14,8 +14,7 @@ Run the following command on the terminal: git clone https://github.com/6UK/King
 
 ### Create a Virtual Environment
 
-Run the following commands in the same terminal:
-
+Run the following commands in the same terminal
 sudo apt-get install python3.6-venv
 python3.6 -m venv virtual
 source virtual/bin/activate
