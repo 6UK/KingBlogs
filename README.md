@@ -3,7 +3,7 @@
 
 ##  Description
 
-This is a blog where you get to view already posted blogs, comment on them and post your own blog.
+This is a blog where you get to view already posted blogs, comment on them and post your own blog
 
 
 ### Clone the Repo
