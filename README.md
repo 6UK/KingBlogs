@@ -49,7 +49,7 @@ Python3.6
 
 Flask
 
-Bootstrap 
+Bootstrap.
 
 
 ## Running app
